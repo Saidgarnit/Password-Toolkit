@@ -1,0 +1,18 @@
+{
+  "name": "password-toolkit",
+  "version": "1.0.0",
+  "description": "A comprehensive web-based tool for password security that includes:",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zxcvbn": "^4.4.2"
+  }
+}
