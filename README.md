@@ -41,7 +41,7 @@ A comprehensive web-based tool for password security that includes:
 
 ## How to Use
 
-1. Visit the [Password Toolkit](https://saidgarnit.github.io/password-toolkit/) page
+1. Visit the [Password Toolkit](https://password-toolkit-three.vercel.app/) page
 2. Choose the tab for the function you need
 3. Follow the on-screen instructions
 
